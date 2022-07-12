@@ -5,8 +5,17 @@
 ```js
 const bio = {
     name: 'Aakash Jain',
-    title: 'Software Engineering Intern',
-    currentlyLearning: 'Front End'
+    title: 'Software Development Engineer',
+    currentlyLearning: 'Front-End'
+};
+
+const skills = {
+    languages: ['Java', 'JavaScript'],
+    databases: ['MongoDB', 'MySQL'],
+    markupLanguage: ['HTML5'],
+    libraryAndFrameworks: ['ReactJS','Angular', 'ExpressJS'],
+    tools: ['Git', 'Postman'],
+    others: ['Data Structures', 'Object Oriented Programming (OOPs)', 'NodeJS']
 };
 ```
 
