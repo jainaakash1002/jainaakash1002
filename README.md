@@ -9,10 +9,15 @@ https://simpleicons.org/
 -->
 
 <h2 align='center'><samp><strong>Hi there Developers👋, I am Aakash Jain</strong></samp></h2>
-<h3 align='center'><strong><a href="aakashjain.netlify.app" target="_blank">Portfolio 🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://aakashjain.netlify.app/" target="_blank">Portfolio 🌐</a></strong></h3>
 <p align='center'>Software Development Engineer | Frontend Developer</p>
 
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/jainaakash1002?label=Follow%20Me&style=social)](https://github.com/jainaakash1002)
+<p align="right"> 
+  Visitor Counts<br>
+  <img src="https://profile-counter.glitch.me/jainaaksh1002/count.svg" />
+</p>
+
+📝 ***Feel free to contact me. I am always here ...*** &nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/jainaakash1002?label=Follow%20Me&style=social)](https://github.com/jainaakash1002)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Aakash%20Jain-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/jainaakash21/)
@@ -97,10 +102,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jainaakash1002&show_icons=true&theme=buefy&layout=compact&locale=en)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jainaakash1002&show_icons=true&theme=nord&locale=en)
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jainaaksh1002/count.svg" />
-</p>
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=jainaakash1002&show_icons=true&theme=nord&locale=en) -->
