@@ -30,7 +30,7 @@ https://simpleicons.org/
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
 
-💻 **Languages and Tools:** 🛠️<br>
+💻 **Languages, Tools & FrameWorks:** 🛠️<br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
@@ -41,7 +41,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![Java](https://img.shields.io/badge/-java-000000?style=flat&logo=java&logoColor=339AF0&labelColor=ffffff)
+![Java](https://img.icons8.com/color/48/000000/java.png?style=flat&logoColor=000000&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&labelColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
@@ -50,6 +50,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json%20web%20tokens&logoColor=black&labelColor=ffffff)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-000000?style=flat&logo=next.js&logoColor=red&labelColor=ffffff)
 ![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=red&labelColor=ffffff)
