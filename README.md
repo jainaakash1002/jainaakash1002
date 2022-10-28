@@ -6,6 +6,10 @@ https://gist.github.com/rxaviers/7360908
 ## Technologies Icons 
 https://simpleicons.org/
 
+
+## Links Genearted
+https://shields.io/
+
 -->
 
 <h2 align='center'><samp><strong>Hi there Developers👋, I am Aakash Jain</strong></samp></h2>
@@ -20,7 +24,7 @@ https://simpleicons.org/
 📝 ***Feel free to contact me. I am always here ...*** &nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/jainaakash1002?label=Follow%20Me&style=social)](https://github.com/jainaakash1002)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Aakash%20Jain-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/jainaakash21/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Aakash%20Jain-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/jainaakash1002/)
 [![Mail](https://img.shields.io/badge/Gmail-jainaakash1002@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:jainaakash1002@gmail.com)
 <br>
 [![Codesandbox](https://img.shields.io/badge/Codesandbox-Aakash%20Jain-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/jainaakash1002)
@@ -60,12 +64,12 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Responsive Web Design`, `DOM`, `Styled Components`, `React Router`, `AXIOS`, `Chakra UI`, `Ant Design`, `MixPanel`, `3rd Party API`, `Object-Oriented Programming`, `Data Structures and Algorithms`
+`Responsive Web Design`, `DOM`, `Styled Components`, `React Router`, `AXIOS`, `Chakra UI`, `Ant Design`, `MixPanel`, `3rd Party API`, `MixPanel`, `Object-Oriented Programming`, `Data Structures and Algorithms`
 
 
 🌍 **Deployment platforms:**<br>
 
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=000000) ![Amplify](https://img.shields.io/badge/-AWS%20Amplify-000000?style=flat&logo=awsamplify&labelColor=000000)
 
 
 🚩 **Highlights:** <br>
