@@ -14,7 +14,7 @@ https://shields.io/
 
 <h2 align='center'><samp><strong>Hi there Developers👋, I am Aakash Jain</strong></samp></h2>
 <h3 align='center'><strong><a href="https://aakashjain.netlify.app/" target="_blank">Portfolio 🌐</a></strong></h3>
-<p align='center'>Software Development Engineer | Frontend Developer</p>
+<p align='center'>Software Development Engineer 2 | Front-end Developer</p>
 
 <p align="right"> 
   Visitor Counts<br>
@@ -29,7 +29,8 @@ https://shields.io/
 <br>
 [![Codesandbox](https://img.shields.io/badge/Codesandbox-Aakash%20Jain-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/jainaakash1002)
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Frontend Developer career path, and loves working with cutting edge tools and technologies.</p>
+<p align='left'> 📫  With 3 years of experience in full-stack web development, I specialise in building dynamic, user-centric
+frontend applications using JavaScript and React JS. While I’ve contributed to both frontend and backend systems - including leading a scalable web app that increased user engagement by 30% and optimising backend performance to reduce load time by 20% - my passion lies in crafting seamless, high-performance user interfaces. I’m now seeking a frontend-focused Software Developer role where I can apply my expertise to create engaging and efficient digital experiences.</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
@@ -106,4 +107,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jainaakash1002&show_icons=true&theme=buefy&layout=compact&locale=en)
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=jainaakash1002&show_icons=true&theme=nord&locale=en) -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jainaakash1002&show_icons=true&theme=nord&locale=en)
