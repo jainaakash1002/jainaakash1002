@@ -1,109 +1,142 @@
-<!--
+<h1 align="center">👋 Hey Developers, I'm <a href="https://aakashjain.netlify.app/" target="_blank">Aakash Jain</a></h1>
+<h3 align="center">💻 Software Development Engineer</h3>
 
-## Complete list of github markdown emoji markup
-https://gist.github.com/rxaviers/7360908
-
-## Technologies Icons 
-https://simpleicons.org/
-
-
-## Links Genearted
-https://shields.io/
-
--->
-
-<h2 align='center'><samp><strong>Hi there Developers👋, I am Aakash Jain</strong></samp></h2>
-<h3 align='center'><strong><a href="https://aakashjain.netlify.app/" target="_blank">Portfolio 🌐</a></strong></h3>
-<p align='center'>Software Development Engineer 2 | Front-end Developer</p>
-
-<p align="right"> 
-  Visitor Counts<br>
-  <img src="https://profile-counter.glitch.me/jainaaksh1002/count.svg" />
+<p align="center">
+  <a href="https://github.com/jainaakash1002"><img src="https://img.shields.io/github/followers/jainaakash1002?label=Follow%20Me&style=social" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/jainaakash1002/"><img src="https://img.shields.io/badge/LinkedIn-Aakash%20Jain-blue?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jainaakash1002@gmail.com"><img src="https://img.shields.io/badge/Gmail-jainaakash1002%40gmail.com-red?logo=gmail&logoColor=white"></a>
+  <a href="https://codesandbox.io/u/jainaakash1002"><img src="https://img.shields.io/badge/Codesandbox-Aakash%20Jain-black?logo=codesandbox&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=jainaakash1002&style=for-the-badge&color=blue" alt="Visitor Count" />
 </p>
 
-📝 ***Feel free to contact me. I am always here ...*** &nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/jainaakash1002?label=Follow%20Me&style=social)](https://github.com/jainaakash1002)
-<br>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Aakash%20Jain-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/jainaakash1002/)
-[![Mail](https://img.shields.io/badge/Gmail-jainaakash1002@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:jainaakash1002@gmail.com)
-<br>
-[![Codesandbox](https://img.shields.io/badge/Codesandbox-Aakash%20Jain-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/jainaakash1002)
+---
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Frontend Developer career path, and loves working with cutting edge tools and technologies.</p>
+### 🧑‍💻 About Me
+- 🌟 Passionate **Frontend focused Software Engineer** with expertise in **React, Next.js and modern UI frameworks**.  
+- 🎨 Love building **beautiful, scalable, and responsive web applications**.  
+- 🚀 Skilled at **turning ideas into interactive experiences**.  
+- 🌱 Currently sharpening **Design Systems (Chakra UI, Shadcn)** & performance optimization.  
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+---
 
+### ⚡ Tech Stack
 
-💻 **Languages, Tools & FrameWorks:** 🛠️<br>
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss&labelColor=ffffff)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&labelColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![Yarn](https://img.shields.io/badge/-yarn-000000?style=flat&logo=yarn&labelColor=ffffff)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json%20web%20tokens&logoColor=black&labelColor=ffffff)
-![Nextjs](https://img.shields.io/badge/-Nextjs-000000?style=flat&logo=next.js&logoColor=red&labelColor=ffffff)
-![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=red&labelColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Express.Js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=000000&labelColor=ffffff)
+**Frontend Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+**State Management & Data Fetching**  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-4433FF?style=for-the-badge&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
-🧐 **Knowledge of:**<br>
+**Realtime Communication**  
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Server-Sent Events](https://img.shields.io/badge/Server--Sent%20Events-FF6F00?style=for-the-badge&logo=mozilla&logoColor=white)
 
-`Responsive Web Design`, `DOM`, `Styled Components`, `React Router`, `AXIOS`, `Chakra UI`, `Ant Design`, `MixPanel`, `3rd Party API`, `MixPanel`, `Object-Oriented Programming`, `Data Structures and Algorithms`
+**UI & Styling**  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radixui&logoColor=white)
 
+**Core Web**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-🌍 **Deployment platforms:**<br>
+**Backend Development**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=000000) ![Amplify](https://img.shields.io/badge/-AWS%20Amplify-000000?style=flat&logo=awsamplify&labelColor=000000)
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Messaging & Queues**  
+![BullMQ](https://img.shields.io/badge/BullMQ-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-🚩 **Highlights:** <br>
+**Cloud Hosting & Platforms**  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=black)
+![Azure Static Web Apps](https://img.shields.io/badge/Azure_Static_Web-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+**Cloud Infrastructure**  
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Azure VM](https://img.shields.io/badge/Azure_VM-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+**Cloud Storage**  
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-📚 **Working on:** <br>
+**CI/CD & Automation**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-antd-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Material-UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+**Version Control**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
 
+**Project Management**  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-🤓 **Interested:** <br>
+**Code Editors & Collaboration**  
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=blue&labelColor=ffffff)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=red&labelColor=ffffff)
+**Testing & Automation**  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+**Containerization & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-✅  **GitHub Extra Pins**
+**Others**  
+RESTful APIs • Microservices Architecture • Scalable Systems
 
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=jainaakash1002" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+---
+
+### 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jainaakash1002&show_icons=true&theme=react&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jainaakash1002&layout=compact&theme=react&hide_border=true" height="170" />
 </p>
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainaakash1002&theme=react&hide_border=true" height="180" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jainaakash1002&show_icons=true&theme=buefy&layout=compact&locale=en)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jainaakash1002&theme=react-dark&hide_border=true" />
+</p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jainaakash1002&show_icons=true&theme=nord&locale=en)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jainaakash1002&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jainaakash1002&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jainaakash1002&theme=github_dark" />
+</p>
+
+---
+
+### 🚀 Fun Facts
+- 🎨 Frontend enthusiast who loves turning designs into reality.  
+- ✨ Open source contributor & continuous learner.  
+- 📚 Always improving **DSA + System Design** knowledge.  
+- 🎧 Music fuels my coding sessions.  
+
+---
+
+<h3 align="center">💡 Developing Software is not just about code, it's about creating experiences. </h3>
